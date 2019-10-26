@@ -1,6 +1,6 @@
 public class GermanShepherd extends Dog{
-    public GermanShepherd(String name) {
-        super(name);
+    public GermanShepherd(String name, String nickName) {
+        super(name, nickName);
     }
 
     @Override
